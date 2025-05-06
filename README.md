@@ -1,6 +1,6 @@
 # 💫 Sobre mim:
 
-🚀 Graduando em Tecnólogo de Análise e Desenvolvimento de Sistemas<br>🔍 Focado em aprender e aplicar tecnologias de backend como Java, Spring Boot, APIs RESTful e bancos de dados relacionais<br>💡 Sempre em busca de novos desafios e de melhorar minhas habilidades em arquitetura de sistemas, segurança e performance<br>📚 Acreditando no aprendizado contínuo e na prática para dominar o desenvolvimento de software
+🔍 Focado em aprender e aplicar tecnologias de backend como Java, Spring Boot, APIs REST e bancos de dados relacionais, em busca de novos desafios e de melhorar minhas habilidades em arquitetura de sistemas, segurança e performance<br>
 
 ## 🌐 Redes Sociais:
 
