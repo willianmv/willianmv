@@ -1,6 +1,6 @@
 # ⚙️ Sobre mim:
 
-🔍 Focado em aprender e aplicar tecnologias de backend como Java, Spring Boot, APIs REST e bancos de dados relacionais<br> 💡Buscando melhorar minhas habilidades em arquitetura de sistemas, segurança e performance<br>
+🔍 Focado em aprender e aplicar tecnologias de backend como Java, Spring Boot, APIs REST e bancos de dados relacionais<br>  💡Buscando melhorar minhas habilidades em arquitetura de sistemas, segurança e performance<br>
 
 ## 🌐 Redes Sociais:
 
